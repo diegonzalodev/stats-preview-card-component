@@ -1,0 +1,133 @@
+@media screen and (min-width: 768px) {
+  //   .card {
+//     width: 95%;
+//     max-width: 75rem;
+//     display: grid;
+//     grid-template-columns: repeat(2, 1fr);
+//     grid-auto-rows: 25rem;
+//     &__image {
+//       border-top-left-radius: 0;
+//       border-bottom-right-radius: $border-radius;
+//       grid-column: 2 / 3;
+//       grid-row: 1 / 2;
+//       img {
+//         height: 100%;
+//       }
+//     }
+//     &__description {
+//       padding: 3.1rem 5rem 2.5rem 3.1rem;
+//       text-align: left;
+//       grid-column: 1 / 2;
+//       grid-row: 1 / 2;
+//     }
+//     &__title {
+//       margin-top: 0;
+//       font-size: 1.6rem;
+//     }
+//     &__paragraph {
+//       font-size: .85rem;
+//     }
+//     &__stats {
+//       margin-top: 1.5rem;
+//       ul {
+//         width: 90%;
+//         display: flex;
+//         justify-content: space-between;
+//         align-items: center;
+//       }
+//       li {
+//         margin: 0;
+//         font-size: 1.2rem;
+//         justify-content: center;
+//         align-items: flex-start;
+//         &:nth-child(2) {
+//           margin-top: 0;
+//         }
+//         &:nth-child(3) {
+//           margin-top: 0;
+//         }
+//       }
+//       span {
+//         margin-top: .2rem;
+//         font-size: .6rem;
+//       }
+//     }
+//   }
+// }
+
+// @media screen and (min-width: 850px) {
+//   .card {
+//     grid-auto-rows: 28rem;
+//     &__description {
+//       padding: 3.5rem 5rem 2.5rem 3.5rem;
+//     }
+//     &__title {
+//       font-size: 1.9rem;
+//     }
+//     &__paragraph {
+//       font-size: .95rem;
+//     }
+//     &__stats {
+//       margin-top: 2rem;
+//       li {
+//         font-size: 1.2rem;
+//       }
+//       span {
+//         margin-top: .4rem;
+//         font-size: .6rem;
+//       }
+//     }
+//   }
+// }
+
+// @media screen and (min-width: 1021px) {
+//   .card {
+//     grid-auto-rows: 28rem;
+//     &__description {
+//       padding: 4.5rem 5rem 2.5rem 3.7rem;
+//     }
+//     &__title {
+//       font-size: 2rem;
+//     }
+//     &__paragraph {
+//       font-size: 1rem;
+//     }
+//     &__stats {
+//       margin-top: 2.2rem;
+//       li {
+//         font-size: 1.35rem;
+//       }
+//       span {
+//         margin-top: .4rem;
+//         font-size: .7rem;
+//       }
+//     }
+//   }
+// }
+
+// @media screen and (min-width: 1250px) {
+//   .card {
+//     grid-template-rows: auto;
+    
+//     &__description {
+//       padding: 4.5rem 7rem 4.5rem 4.5rem;
+//     }
+//     &__title {
+//       font-size: 2.4rem;
+//     }
+//     &__paragraph {
+//       font-size: 1rem;
+//     }
+//     &__stats {
+//       margin-top: 3rem;
+//       li {
+//         font-size: 1.5rem;
+//       }
+//       span {
+//         margin-top: .4rem;
+//         font-size: .7rem;
+//       }
+//     }
+//   }
+// }
+}

@@ -1,5 +1,7 @@
-@import 'variables';
-@import 'mixins';
-@import 'default';
-@import 'card';
-@import 'media-query';
+@import 'utilities/variables';
+@import 'utilities/mixins';
+
+@import 'base/default';
+
+@import 'components/card';
+@import 'components/media-query';
